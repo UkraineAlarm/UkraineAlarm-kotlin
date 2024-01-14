@@ -1,4 +1,4 @@
-# UkraineAlarm - Kotlin client library for Ukraine Alert API
+# UkraineAlarm - Kotlin library for the [Ukraine Alert API](https://api.ukrainealarm.com/)
 
 ## Requires
 
